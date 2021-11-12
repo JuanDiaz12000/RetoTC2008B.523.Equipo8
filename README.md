@@ -5,6 +5,7 @@ Modelación de sistemas multiagentes con gráficas computacionales
 TC2008B.523
 
 Dr. Sergio Ruiz Loza
+
 Dr. Christopher David Balderas Silva
 
 M1. Arranque de proyecto
