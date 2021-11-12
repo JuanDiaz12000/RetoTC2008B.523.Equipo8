@@ -1,25 +1,22 @@
 
 Modelación de sistemas multiagentes con gráficas computacionales
 
-```
+
 TC2008B.523
-```
-```
+
 Dr. Sergio Ruiz Loza
 Dr. Christopher David Balderas Silva
-```
-```
+
 M1. Arranque de proyecto
-```
-```
+
 Annya Paulina Verduzco Meza - A01650668
 Juan Ernesto Díaz Noguez - A01653546
 Jesús Daniel Lara Yamamoto - A01658318
 Hector Arturo Noyola Mondragón - A01023808
-```
-```
+
+
 Fecha de entrega: 12 de noviembre 2021
-```
+
 
 ## Resumen
 
@@ -46,118 +43,118 @@ Fecha de entrega: 12 de noviembre 2021
 
 Fortalezas
 
-```
+
 ● Organización: Soy buena para realizar un plan de trabajo y apegarme a él,
 cumpliendo de esta manera con las entregas en tiempo y forma.
-```
-```
+
+
 ● Responsable: Cuando adquiero responsabilidades me aseguro de cumplirlas,
 procurando además entregar siempre un trabajo de calidad.
-```
-```
+
+
 ● Buena trabajando en equipo: Considero que trabajar en equipo implica el respeto y colaboración mutua de todos los integrantes del equipo y me parece que soy una persona buena para escuchar todas las opiniones de mis compañeros sin desprestigiar ninguna aportación. 
 
-```
-```
+
+
 ● Buenacomunicación:Buscosiempretenerunacomunicaciónclarayhonestacon
 miscompañeros,deestamaneraantealgunaadversidadpodemosresolverlodela
 mejor manera.
-```
+
 Áreas de oportunidad
 
-```
+
 ● Necesito practicar para entender un tema: cuando reviso o aprendo un nuevo tema necesito repasar varias veces y practicar para captar los conceptos de manera correcta lo cual puede resultar en un proceso más largo que en el de mis compañeros. 
-```
-```
+
+
 ● Necesito de un líder: a veces pierdo la concentración y la motivación al momento de realizar un proyecto y necesito de la guía de un líder para no perder el objetivo final. 
-```
-```
+
+
 ● Mejorar manejo del estrés: en algunas ocasiones puedo dejarme llevar por la carga de trabajo y permitir que esto me cause estrés lo cual puede frenar mi trabajo. 
-```
+
 #### Juan Díaz
 
 Fortalezas
 
-```
+
 ● Creatividad: Soy una persona que gusta mucho de la experimentación. Utilizo diferentes alternativas hasta encontrar la que tiene mayor sinergía con el proyecto a elaborar.
-```
 
-```
+
+
 ● Perfeccionismo: Soy una persona que busca que todo detalle (pequeño o grande) sea presentado en su mejor versión. No me detengo hasta lograr llegar al resultado esperado.
-```
-```
+
+
 ● Resolución de Conflictos: Soy una persona que busca siempre maneras de lograr todos los objetivos. A veces puede que sea complicado lograr algunos objetivos pero busco la manera en que se pueda lograr de una manera sencilla.
-```
 
-```
+
+
 ● Responsabilidad: Soy una persona que identifica sus prioridades y trabaja en ellas sabiendo lo que se debe entregar al momento en tiempo y forma.
-```
 
-```
+
+
 ● Trabajo en equipo: Soy una persona que disfruta de trabajar en equipo. Cuando hay puntos en desacuerdo, busco que lleguemos a un punto medio.
-```
+
 Áreas de Oportunidad
 
-```
+
 ● Organización: Soy una persona que siempre entrega todo en tiempo y forma. Sin embargo, en ocasiones me cuesta organizar todos mis pendientes por prioridad y esto en ocasiones provoca que tenga que cambiar rápidamente de enfoque de actividades.
-```
-```
+
+
 ● Gestión de Tiempo: Soy una persona que no permite que mis trabajos lleguen a tener retrasos. Sin embargo, en ocasiones, termino mucho más tiempo trabajando que el que debería al no seguir un tiempo de ejecución efectivo.
-```
+
 #### Héctor Noyola
 
 Fortalezas:
 ● Aprendizaje autodidacta: Me considero una persona que puede aprender con facilidad un tema a través de la lectura o investigación de éste por medio de videos o artículos en línea.
 
-```
+
 ● Responsable: Me gusta que en lo más que sea posible los trabajos cumplan la mayor cantidad de los requerimientos y que se entreguen en tiempo y forma.
-```
-```
+
+
 ● Se aplicar lo que sé: Trato de buscar una manera de resolver un problema con herramientas que ya conozco.
-```
-```
+
+
 ● Trato de ayudar a los demás: Si veo que algún compañero tiene algún problema con una parte busco explicarle como se puede solucionar o trato de investigar un modo de hacerlo.
-```
+
 Debilidades:
 
 
-```
+
 ● Pierdo la atención muy rápido: si no me mantengo haciendo algo mi concentración se pierde. Casi siempre tengo que estar haciendo algo con las manos para mantenerme quieto.
-```
-```
+
+
 ● A veces me resulta difícil explicar lo que estoy pensando: se me complica poner en palabras alguna solución o idea que tengo en mi cabeza.
 
-```
-```
+
+
 ● Me puedo estresar con facilidad si me estancó mucho tiempo en algo
-```
+
 #### Daniel Yamamoto
 
 Fortalezas:
 
-```
+
 ● Responsable: Me considero una persona bastante que cumple con todos sus deberes en tiempo y forma a pesar de la mala organización que puedo llegar a tener.
-```
-```
+
+
 ● Buena comunicación: Me considero una persona que normalmente puede compartir sus ideas pero también puede escucharlas, así como también dar y recibir críticas constructivas que apoyen la causa del proyecto.
 
-```
-```
+
+
 ● Trabajo en equipo: Me considero una persona que le gusta trabajar en equipo porque tengo la oportunidad de aprender y tener diferentes puntos de vista que ayudan tanto a mi crecimiento personal como profesional y apoyan al proyecto.
 
-```
-```
+
+
 ● Manejo de estrés: Me considero una persona calmada a pesar de las dificultades
 que se puedan presentar.
-```
+
 Debilidades:
 
-```
+
 ● Organización: Me considero una persona a pesar de que cumple con todas actividades requeridas tiene una mala organización que siempre se pierde en los pendientes y no sabe categorizar prioridades.
-```
-```
+
+
 ● Concentración: Me considero una persona que pierde muy fácilmente la concentración por lo que tiendo a procrastinar muy rápidamente.
-```
+
 ### Expectativas del equipo para este bloque
 
 La expectativa principal que tiene el equipo es adquirir todos los conocimientos conceptuales, procedimentales y actitudinales esperados del bloque tanto en el módulo de gráficas computacionales y el de multiagentes. Todos los integrantes del equipo están conscientes de la corta duración del bloque; por lo tanto nos comprometemos a esforzarnos y como expectativa esperamos el apoyo de los profesores. Por ejemplo, en caso de requerir asesoría o apoyo para repasar un tema. 
@@ -169,48 +166,48 @@ Finalmente, al ser de nuestro conocimiento la participación de IBM como socio f
 
 **Logros esperados**
 
-```
+
 ● Cumplir con el reto del bloque, el cual consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes.
 
-```
-```
+
+
 ● Desarrollar las competencias esperadas para este bloque de demostración,
 generación e implementación asociadas a sistemas y modelos computacionales.
-```
-```
+
+
 ● El equipo espera que todos los miembros del equipo aprueben de manera
 satisfactoria el bloque.
-```
-```
+
+
 ● Adquirir los conocimientos relacionados al módulo de gráficas computacionales.
-```
-```
+
+
 ● Adquirir los conocimientos relacionados al módulo de multiagentes.
-```
-```
+
+
 ● Cumplir en tiempo y forma con todas las entregas del reto.
-```
+
 ### Compromisos del equipo
 
 De esta manera, el equipo 8 “Los 4 fantásticos” se compromete a cumplir con los siguientes
 lineamientos:
 
-```
-Todos los integrantes del equipo trabajarán apegándose al plan de trabajo elaborado.
-```
-```
-● Todos los integrantes del equipo se comunicarán constantemente para comunicar el estado de sus tareas asignadas utilizando el grupo de whatsapp.
-```
-```
-● Todos los integrantes del equipo respetarán las ideas propuestas por los demás integrantes y se buscará seguir la idea que nos ayude a cumplir de la mejor manera con los objetivos planteados al inicio del proyecto.
-```
 
-```
+Todos los integrantes del equipo trabajarán apegándose al plan de trabajo elaborado.
+
+
+● Todos los integrantes del equipo se comunicarán constantemente para comunicar el estado de sus tareas asignadas utilizando el grupo de whatsapp.
+
+
+● Todos los integrantes del equipo respetarán las ideas propuestas por los demás integrantes y se buscará seguir la idea que nos ayude a cumplir de la mejor manera con los objetivos planteados al inicio del proyecto.
+
+
+
 ● Los integrantes del equipo se comprometen a pedir ayuda y hablar honestamente si en algún momento no pueden cumplir con alguna de las tareas asignadas. 
-```
-```
+
+
 ●Los integrantes del equipo se comprometen a notificar al resto del equipo en caso de algún cambio imprevisto en el proyecto.
-```
+
 
 ## Propuesta Formal del Reto
 
@@ -231,22 +228,25 @@ Identificar las rutas con menor congestión vehicular (aunque no sean las rutas 
 
 **Posibles Agentes:**
 
-```
+
 ● Semáforos
-○ Indican si es posible el avance de los carros o no
+   ○ Indican si es posible el avance de los carros o no.
+   
 ● Coches
-○ Se mueven a través de las calles, buscan llegar a un destino.Deberán
-detenerse en caso de encontrarse con un peatón u otro vehículo.
+   ○ Se mueven a través de las calles, buscan llegar a un destino. Deberán detenerse en caso de encontrarse con un peatón u otro vehículo.
+   
 ● Ciudad
-○ Contiene las calles
+   ○ Contiene las calles.
+   
 ● Calles
-○ Por donde se moverán los carros.
+   ○ Por donde se moverán los carros.
+   
 ● Carriles
-○ Conforman las calles, los carriles tienen dirección para el avance de los
-carros.
+   ○ Conforman las calles, los carriles tienen dirección para el avance de los carros.
+   
 ● Peatones
-○ Buscarán cruzar las calles. Los autos deberán detenerse en caso de que haya algún peatón frente a ellos.
-```
+   ○ Buscarán cruzar las calles. Los autos deberán detenerse en caso de que haya algún peatón frente a ellos.
+
 
 
 
